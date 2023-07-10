@@ -1,6 +1,7 @@
 # test
 
 //to start application
+
 step 1 : clone repository from github to local.
 step 2 : install node modules using command "npm install"
 step 3 : to start server, use command "npm start" 
